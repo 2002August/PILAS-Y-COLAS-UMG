@@ -1,1 +1,1 @@
-# PILAS-Y-COLAS-UMG
+En el siguiente programa se realizo un generador de numeros aleatorios de un rango entre 10000000 y -10000000 de numeros positivos y negativos con los metodos de pilas y colas el metodo mas eficiente fue colas ya que la inserción y extracción de datos se obtuvo mejor tiempo en el rendimiento y optimizacion.
